@@ -1,0 +1,11 @@
+Name,Age,Gender,Math_score,Science_score,PG
+Alice,21,Female,85.0,78.0,Yes
+Bob,22,Male,78.0,72.0,No
+Charlie,20,Male,92.0,,Yes
+David,23,Male,88.0,85.0,No
+Eva,21,Female,,90.0,Yes
+Frank,22,Male,75.0,70.0,No
+Grace,20,Female,89.0,84.0,Yes
+Hannah,23,Female,94.0,88.0,Yes
+Ivan,21,Male,65.0,60.0,No
+Judy,22,Female,80.0,,Yes
